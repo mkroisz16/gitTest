@@ -1,2 +1,3 @@
-for:	
+sehr stoak
+
  print(#hallo welt');
